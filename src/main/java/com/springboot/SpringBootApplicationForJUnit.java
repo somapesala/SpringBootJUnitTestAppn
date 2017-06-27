@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootJUnitTestApplication {
+public class SpringBootApplicationForJUnit {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootJUnitTestApplication.class, args);
+		SpringApplication.run(SpringBootApplicationForJUnit.class, args);
 	}
 }
